@@ -1,0 +1,40 @@
+body{
+  background-color: #F8F9FA;
+}
+
+h3{
+  font-weight: bold;
+}
+footer{
+  width: 100%;
+}
+
+.bg-white{
+  background-color: white;
+}
+.m-top-10{
+  margin-top: 20px;
+}
+.p-top-30{
+  padding-top: 30px;
+}
+.p-bottom-30{
+  padding-bottom: 30px;
+}
+
+.bordo-tondo{
+  border-radius: 50%;
+  width: 50%;
+  margin: auto;
+}
+
+a .fa{
+  color: white;
+  background-color: black;
+  padding: 10px;
+  font-size: 2em;
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+  border-radius: 50%;
+}
