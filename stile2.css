@@ -110,6 +110,9 @@ footer{
   .col-3{
     width: 50%;
   }
+  .col-4{
+    width: 50%
+  }
 }
 
 @media screen and (max-width:500px){
